@@ -1,5 +1,11 @@
 # Industrial Predictive Maintenance Platform 🏗️🤖
 
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)
+![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+
 This is a comprehensive, end-to-end Machine Learning project focused on **Industrial AI** and **Predictive Maintenance**. It simulates a real-world monitoring system for industrial machines, providing failure predictions, anomaly detection, and sensor forecasting.
 
 ## 🚀 Project Overview
@@ -15,6 +21,16 @@ The goal of this platform is to transform raw sensor data into actionable insigh
 - **Live Monitoring Simulation**: Script to simulate real-time sensor streams and alerts.
 - **Interactive Dashboard**: Streamlit-based UI for data visualization and monitoring.
 - **Containerization**: Docker & Docker-Compose for portable deployment.
+
+---
+
+## 📸 Preview
+
+### Interactive Dashboard
+![Dashboard](assets/dashboard.png)
+
+### API Documentation (Swagger UI)
+![API Swagger](assets/api_swagger.png)
 
 ---
 

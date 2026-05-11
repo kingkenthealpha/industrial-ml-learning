@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  industrial-ml-api:
+    build: .
+    container_name: industrial-ml-container
+    ports:
+      - "8000:8000"
+    restart: always
